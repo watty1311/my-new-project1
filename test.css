@@ -1,0 +1,61 @@
+body{
+   
+    
+    background-color: #f4f4f4;
+
+}
+.card1{
+    background-color: rgb(31, 236, 31);
+    border-radius: 8px;
+    width: 400px;
+}
+input[type="text"]{
+    margin-left: 10px;
+    border-radius: 8px;
+    width: 350px;
+    height: 30px;
+    border: none;
+}
+select{
+    margin-left: 10px;
+    width: 350px;
+}
+input[type="number"]{
+    width: 350px;
+    margin-left: 10px;
+    height: 30px;
+    border: none;
+    border-radius: 8px;
+}
+.register{
+    width: 350px;
+    border-radius: 8px;
+    border: none;
+    height: 30px;
+    margin-bottom:25px;
+    margin-left: 10px;
+}
+input[type="radio"]{
+    margin-left: 10px;
+}
+label{
+    margin-left: 10px;
+}
+.card2{
+   border-radius: 8px;
+   background-color: #fafafa;
+    width: 400px;
+} 
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+h1{
+    margin-left: 40px;
+    font-size: 30px;
+}
+h3{
+    margin-top: 0px;
+    font-size: 25px;
+    background-color: rgb(43, 239, 43);
+}
